@@ -40,7 +40,7 @@ start exploring right away!
 * [PixelRNN](https://arxiv.org/abs/1601.06759), [PixelCNN](https://arxiv.org/abs/1606.05328), [WaveNet](https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio) - raw audio synthesis
 * [DDSP](https://magenta.tensorflow.org/ddsp), [Music Transformer](https://magenta.tensorflow.org/music-transformer) and other works by [Google Magenta](https://magenta.tensorflow.org/) with audio and symbolic music generation
 * [OpenAI Jukebox](https://openai.com/blog/jukebox/) - raw audio synthesis
-* [MuseGAN](https://salu133445.github.io/musegan/) -
+* [MuseGAN](https://salu133445.github.io/musegan/) - symbolic multi-track generation
 
 ## 5. Fun stuff!
 
